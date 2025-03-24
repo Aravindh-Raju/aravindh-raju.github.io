@@ -61,7 +61,7 @@ author:
   bio    : "Software engineer, avid reader, sports enthusiast, and lifelong learner who enjoys exploring new ideas and challenges."
   links:
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/aravindh-raju"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -76,7 +76,7 @@ author:
 footer:
   links:
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/aravindh-raju"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
