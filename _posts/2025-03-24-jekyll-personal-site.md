@@ -3,6 +3,7 @@ title: "Setting Up a Jekyll Personal Website with Minimal Mistakes Theme"
 categories:
   - Blog
 tags:
+  - Tech
   - Jekyll
 ---
 
