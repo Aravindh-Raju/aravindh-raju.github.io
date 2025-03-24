@@ -1,9 +1,7 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Me"
 ---
-
-## About Me  
 
 Passionate about building scalable, cloud-native applications, I have around 4 years of hands-on experience in software development, automation, and cloud infrastructure. My work spans full-stack development and DevOps, combining application development with automation and deployment optimization to build high-performance, scalable solutions.
 
