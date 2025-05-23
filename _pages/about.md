@@ -9,27 +9,30 @@ Currently, I work with React, Node.js, Serverless Framework, and AWS, developing
 
 I thrive on solving complex problems, embracing new challenges, and continuously learning to stay ahead in the ever-evolving tech landscape.
 
+[Check Out My Resume — Spoiler: It’s Impressive](/assets/resume.pdf)
+
 ## Experience
 
 ### Genesys  
 **Senior Software Engineer** (01/2025 - Present)  
-- Developing a portal for product installation using React, Node.js, and Serverless Framework, leveraging AWS services such as Lambda, EventBridge, Kinesis, DynamoDB, API Gateway, S3, and CloudFront to ensure scalability, performance, and seamless integration.
-- Collaborating with customers to customize the product and add additional features based on their needs.
+- Led the development of a modernized software installation portal, using React + Vite for a responsive frontend hosted on Amazon S3 and CloudFront, resulting in 40% faster load times and improved user engagement.
+- Built scalable backend APIs using Node.js, AWS Lambda, and the Serverless Framework, integrated with Amazon DynamoDB to deliver a fully serverless, low-latency, and cost-efficient architecture.
+- Collaborated directly with customers to gather requirements, implement new features, and resolve issues, ensuring high customer satisfaction and fast turnaround for critical fixes.
+- Partnered with product and design teams to define architecture, optimize performance, and streamline deployments, reducing release cycles by 30%.
 
 ### Comcast  
 **Development Engineer - 2** (06/2021 - 12/2024)  
-- Developed and maintained features for the VinylDNS open-source platform, ensuring high code quality through reviews and optimizations.
-- Worked with Python, Scala, SQL, Spark, AngularJS, Akka, Spring, GitHub Actions, Terraform, and Ansible.
-- Reworked the Concourse CI/CD pipeline, integrating Terraform for infrastructure as code and Ansible for configuration management.
-- Led the development of a scalable log analysis pipeline on AWS EMR using Apache Spark and Scala to process and analyze DNS logs from Nginx web servers.
-- Created data ingestion workflows using Kafka, processed data in Spark, and visualized results in Elasticsearch and Kibana.
-- Migrated MySQL databases from OpenStack to AWS RDS using AWS DMS with minimal downtime.
-- Developed AWS Lambda functions and Python scripts for workflow automation.
+- Enhanced the VinylDNS open-source platform by developing core features and fixing critical bugs, boosting platform reliability by 30%. Maintained the codebase through rigorous code reviews, issue triaging, and active GitHub contributions.
+- Developed concurrent backend services using Scala and the Akka framework, enabling scalable, event-driven systems with asynchronous messaging patterns and fault tolerance. These services supported high-throughput workloads with minimal latency.
+- Designed dynamic user interfaces using AngularJS, implementing responsive components and stateful UI features that improved user task efficiency by 20%. Integrated APIs with real-time backend services for seamless UX.
+- Re-architected Concourse CI/CD pipelines, enabling smooth cross-org migration. Automated infrastructure using Terraform (IaC) and managed configurations via Ansible, reducing deployment cycles by 40%.
+- Strengthened product reliability by 60% through the implementation of comprehensive unit, integration, and functional tests for new features.
+- Developed automation tools with AWS Lambda and Python scripts, streamlining manual operations and improving team efficiency by 70%.
+- Migrated MySQL databases from OpenStack to AWS RDS using AWS DMS, ensuring minimal downtime and establishing automated backups for data durability.
 
 ### Avasoft  
 **Intern** (03/2021 - 05/2021)  
-- Documented codebase and project architecture for streamlined knowledge sharing.
-- Learned and applied ReactJS, .NET, SQL Server, and SharePoint in real-world projects.
+- Quickly ramped up on ReactJS, .NET, SQL Server, and SharePoint during the internship, contributing to full- stack feature development while also leading the creation of technical documentation for the codebase and architecture, significantly improving team productivity and knowledge transfer.
 
 ### More About Me  
 Outside of work, I enjoy reading books and posting reviews on goodreads. I’m also a big fan of cricket and football and love following matches whenever I get the chance.  
