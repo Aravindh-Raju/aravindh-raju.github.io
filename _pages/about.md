@@ -9,7 +9,7 @@ Currently, I work with React, Node.js, Serverless Framework, and AWS, developing
 
 I thrive on solving complex problems, embracing new challenges, and continuously learning to stay ahead in the ever-evolving tech landscape.
 
-[Check Out My Resume — Spoiler: It’s Impressive](/assets/resume.pdf)
+[Check Out My Resume — Spoiler: It’s Impressive](/assets/Resume.pdf)
 
 ## Experience
 
