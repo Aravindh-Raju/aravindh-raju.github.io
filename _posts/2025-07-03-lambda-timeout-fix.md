@@ -131,5 +131,5 @@ You can take this same logic and plug it into **Step Functions** if you want vis
 This pattern is super flexible — whether you're processing huge datasets, crawling pages, or running async jobs — it just works.
 
 So go ahead: slice it, queue it, recurse it.
-s
-Happy hacking! 🔁💻🚀
+
+Happy coding! 🔁💻🚀
