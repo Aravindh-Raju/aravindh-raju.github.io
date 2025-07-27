@@ -1,0 +1,4 @@
+/* Custom override to make side bar always bright */
+.sidebar {
+  opacity: 1 !important;
+}
