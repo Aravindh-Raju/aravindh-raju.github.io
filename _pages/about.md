@@ -3,7 +3,7 @@ permalink: /about/
 title: "About Me"
 ---
 
-Passionate about building scalable, cloud-native applications, I have around 4 years of hands-on experience in software development, automation, and cloud infrastructure. My work spans full-stack development and DevOps, combining application development with automation and deployment optimization to build high-performance, scalable solutions.
+Passionate about building scalable, cloud-native applications, I have about 4+ years of hands-on experience in software development, automation, and cloud infrastructure. My work spans full-stack development and DevOps, combining application development with automation and deployment optimization to build high-performance, scalable solutions.
 
 Currently, I work with React, Node.js, Serverless Framework, and AWS, developing robust and scalable cloud solutions. My expertise also includes Scala, Python, JavaScript, AngularJS, MySQL, Ansible, and Terraform.
 
