@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Aravindh Raju"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/new-bio-photo.jpeg"
   bio    : "Software engineer, avid reader, sports enthusiast, and lifelong learner who enjoys exploring new ideas and challenges."
   links:
     - label: "LinkedIn"
