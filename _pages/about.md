@@ -5,7 +5,7 @@ title: "About Me"
 
 Passionate about building scalable, cloud-native applications, I have **4+ years of hands-on experience** in software development, automation, and cloud infrastructure. My work spans full-stack development and DevOps, combining application development with automation and deployment optimization to build high-performance, scalable solutions.
 
-Currently, I work with **React, Node.js, Serverless Framework, and AWS**, developing robust and scalable cloud solutions. My expertise also includes **Scala, Python, JavaScript, AngularJS, MySQL, Ansible, and Terraform**.
+Currently, I’m at **Workday** as a **Senior Associate Software Engineer**, ramping up on **Kubernetes**, **Prow**, **Tekton**, and **Go** for CI and platform-focused work. My recent depth includes **React, Node.js, Serverless Framework, and AWS**; my broader toolkit also spans **Scala, Python, JavaScript, AngularJS, MySQL, Ansible, and Terraform**.
 
 I enjoy solving complex problems, building systems that actually scale, and continuously learning to stay ahead in the ever-evolving tech landscape.
 
@@ -15,8 +15,12 @@ I enjoy solving complex problems, building systems that actually scale, and cont
 
 ## Experience
 
+### Workday  
+**Senior Associate Software Engineer** (04/2026 - Present)  
+- Onboarding onto infrastructure and CI tooling centered on **Kubernetes**, **Prow**, **Tekton**, and **Go**.
+
 ### Genesys  
-**Senior Software Engineer** (01/2025 - Present)  
+**Senior Software Engineer** (01/2025 - 04/2026)  
 - Led the development of a modernized software installation portal using **React + Vite** for a responsive frontend hosted on **Amazon S3 and CloudFront**, improving load times by **40%** and boosting user engagement.
 - Built scalable backend APIs using **Node.js, AWS Lambda, and the Serverless Framework**, integrated with **Amazon DynamoDB** to deliver a fully serverless, low-latency, and cost-efficient architecture.
 - Collaborated directly with customers to gather requirements, implement new features, and resolve issues, ensuring high customer satisfaction and fast turnaround for critical fixes.
