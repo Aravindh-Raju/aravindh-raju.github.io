@@ -16,9 +16,12 @@
 title: Aravindh Raju
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  This is my personal website built using Jekyll and hosted on GitHub Pages. It showcases my work, skills, and blog posts.
-twitter_username: ramesh_arvindh
-github_username: Aravindh-Raju
+  This is my personal website where I showcase my work, skills, and blog posts.
+url: "https://aravindh-raju.github.io"
+og_image: /assets/images/og-logo.png
+og_image_alt: "Aravindh Raju"
+twitter:
+  username: "ramesh_arvindh"
 minimal_mistakes_skin: default
 search: true
 
