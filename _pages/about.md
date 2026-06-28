@@ -17,7 +17,8 @@ I enjoy solving complex problems, building systems that actually scale, and cont
 
 ### Workday  
 **Senior Associate Software Engineer** (04/2026 - Present)  
-- Onboarding onto infrastructure and CI tooling centered on **Kubernetes**, **Prow**, **Tekton**, and **Go**.
+- Implemented new features in **Kubernetes** Operators using **Go**, improving automation and management of cloud-native workloads.
+- Integrating **JFrog Xray** security scanning into **Prow** and **Tekton** CI/CD pipelines, strengthening vulnerability detection and **security compliance** across build and deployment workflows.
 
 ### Genesys  
 **Senior Software Engineer** (01/2025 - 04/2026)  
